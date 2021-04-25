@@ -8,3 +8,5 @@
 
 
 Check out my Portfolio Here: [Portfolio](https://marketingplus.github.io/professional-portfolio/)
+
+Check out my LinkedIn Here: [LinkedIn](https://www.linkedin.com/in/benjamin-wilson-a72b69204/)
