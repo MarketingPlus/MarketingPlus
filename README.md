@@ -10,3 +10,6 @@
 Check out my Portfolio Here: [Portfolio](https://marketingplus.github.io/professional-portfolio/)
 
 Check out my LinkedIn Here: [LinkedIn](https://www.linkedin.com/in/benjamin-wilson-a72b69204/)
+
+[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marketingplus)](https://github.com/marketingplus/github-readme-stats)
+
