@@ -1,3 +1,6 @@
+CEO of [EnxyStudios](https://enxystudio.com)
+
+
 # Please enjoy my projects and work! ✨
 
 - 👋 Hi, I’m @MarketingPlus or Benjamin
