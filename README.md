@@ -13,3 +13,6 @@ Check out my LinkedIn Here: [LinkedIn](https://www.linkedin.com/in/benjamin-wils
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=marketingplus)](https://github.com/marketingplus/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marketingplus&layout=compact)](https://github.com/marketingplus/github-readme-stats)
+
+
