@@ -9,10 +9,6 @@ CEO of [EnxyStudios](https://enxystudio.com)
 
 - 📫 How to reach me on my gmail at benmarketingplus@gmail.com
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Shopify?style=flat&logo=shopify&logoColor=white&color=00B4D8)
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MarketingPlus/MarketingPlus">
