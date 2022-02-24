@@ -11,7 +11,7 @@ CEO of [EnxyStudios](https://enxystudio.com)
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=shopify&logoColor=white&color=00B4D8)
+![](https://img.shields.io/badge/Shopify?style=flat&logo=shopify&logoColor=white&color=00B4D8)
 
 ## &#x1f4c8; GitHub Stats
 
